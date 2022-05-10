@@ -10,11 +10,13 @@ public class Student
         this.name = name;
     }
 
-    public int getRollNo() {
+    public int getRollNo()
+    {
         return rollNo;
     }
 
-    public String getName() {
+    public String getName()
+    {
         return name;
     }
 }
